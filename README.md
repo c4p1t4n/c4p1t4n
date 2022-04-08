@@ -1,5 +1,8 @@
 ### Hello guys, my name is Léo  
-<h4> I love learning everything about technology but I'm mainly passionate about programming,operating systems and cyber security </h4>
+<div>
+<h4> I love learning everything about technology but I'm mainly passionate about programming,operating systems and cyber security. </h4>
+<h4>I inter data engineer at <a href="https://www.yhub.com.br/cases">Yhub</a></h4>
+</div>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4p1t4n&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4p1t4n&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
