@@ -1,6 +1,6 @@
 ### Hello guys, my name is Léo  
 <div>
-<h4> I love learning everything about technology but I'm mainly passionate about software developement,data engineer and operating systems. </h4>
+<h4> I love learning everything about technology but I'm mainly passionate about software developement, data engineer and operating systems. </h4>
 <h4>I inter data engineer at <a href="https://www.yhub.com.br/cases">Yhub</a></h4>
 </div>
 <div>
