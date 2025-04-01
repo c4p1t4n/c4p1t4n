@@ -1,7 +1,7 @@
 ### Hello guys, my name is Léo  
 <div>
 <h4> I love learning everything about technology but I'm mainly passionate about software developement, data engineer and operating systems. </h4>
-<h4>I inter data engineer at <a href="https://www.yhub.com.br/cases">Yhub</a></h4>
+<h4>I senior data engineer at <a href="https://conectcar.com/">Conectcar</a></h4>
 </div>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4p1t4n&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -20,9 +20,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
 </div>
  
  # Contatcs
